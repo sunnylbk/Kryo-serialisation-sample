@@ -1,0 +1,10 @@
+gen-idea
+update
+gen-idea
+clean
+compile
+gen-idea
+sbt-idea
+idea
+reload
+gen-idea
